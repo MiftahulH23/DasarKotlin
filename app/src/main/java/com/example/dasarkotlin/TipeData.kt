@@ -27,7 +27,8 @@ fun main() {
         Jl. Tegal Sari No 2,
         Umban sari,
         Rumbai, 
-        Pekanbaru
+        Pekanbaru,
+        Riau
     """.trimIndent()
 
 //    Menggabungkan string
